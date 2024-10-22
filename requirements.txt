@@ -1,0 +1,4 @@
+boto3==1.35.44
+pytest==8.3.3
+pytest-mock==3.14.0
+requests==2.28.1
